@@ -8,7 +8,7 @@
 ### ⚡ Tech Snapshot
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,haskell,golang,git,kotlin,java,python,html,css,js,ts,react,nextjs,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,haskell,golang,git,kotlin,flutter,dart,java,python,html,css,js,php,ts,react,nextjs,tailwind,docker" />
 </p>
 
 ### 🤝 Connect with Me  
