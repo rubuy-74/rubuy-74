@@ -14,8 +14,6 @@
 ### 🤝 Connect with Me  
 [💻 Website ](https://rubuy.me) · [💼 LinkedIn](https://www.linkedin.com/in/rubem-neto-62951122b/) · [🧑‍💻 GitHub](https://github.com/rubuy-74) · 📧 **rubemviscard2635@gmail.com**
 
-Thanks for visiting! ✨
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubuy-74&show_icons=true&theme=dark" width="300">
 </p>
