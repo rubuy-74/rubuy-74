@@ -3,12 +3,12 @@
 # 👋 Hi, I'm Rubem Neto 
 ### 💻 Software Engineering Student
 
-🚀 I'm a Software Engineering Student with around 3 years of experience working in a team and contributing to open source projects. My main interests are backend development, communication systems and networking. I also like to talk about movies.
+🚀 I'm a Software Engineering Student with around 3 years of experience working in open source projects and from time to time professionally. My main interests are Devops, Infrastructure and Backend Development. I also like to talk about movies. 
 
 ### ⚡ Tech Snapshot
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ansible,aws,docker,golang,git,kubernetes,java,python,kotlin,flutter,dart,laravel,lua,elixir,html,css,php,js,ts,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=golang,aws,terraform,docker,git,kubernetes,ansible,java,python,kotlin,flutter,dart,laravel,lua,elixir,html,css,php,js,ts,cpp,c" />
 </p>
 
 ### 🤝 Connect with Me  
