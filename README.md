@@ -3,7 +3,9 @@
 # 👋 Hi, I'm Rubem Neto 
 ### 💻 Software Engineering Student
 
-🚀 I'm a Software Engineering Student with around 3 years of experience working in open source projects and from time to time professionally. My main interests are Devops, Infrastructure and Backend Development. I also like to talk about movies. 
+🚀 I'm a Software Engineering Student with around 3 years of experience working in open source projects and from time to time professionally. My main interests are Devops, Infrastructure and Backend Development. 
+
+🎥 I also like to talk about movies and TV Shows. 
 
 ### ⚡ Tech Snapshot
 
