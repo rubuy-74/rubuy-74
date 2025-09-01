@@ -13,10 +13,9 @@
     <img src="https://skillicons.dev/icons?i=golang,aws,terraform,docker,git,kubernetes,ansible,java,python,kotlin,flutter,dart,laravel,lua,elixir,html,css,php,js,ts,cpp,c" />
 </p>
 
-### 🤝 Connect with Me  
+### 🤝 Useful Links
 - [💻 Website ](https://rubuy.me) 
 - [💼 LinkedIn](https://www.linkedin.com/in/rubem-neto-62951122b/) 
-- [🧑‍💻 GitHub](https://github.com/rubuy-74) 
 - 📧 **rubemviscard2635@gmail.com**
   
 ---
