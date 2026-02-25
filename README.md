@@ -19,7 +19,4 @@
 - 📧 **rubemviscard2635@gmail.com**
   
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubuy-74&show_icons=true&theme=dark&hide_border=true" width="400">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=rubuy-74&theme=dark&hide_border=true" width="430"> -->
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true)](https://git.io/streak-stats)
